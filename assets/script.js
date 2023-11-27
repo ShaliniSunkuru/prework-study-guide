@@ -9,11 +9,6 @@ function listTopics(){
 
 }
 
-
-
-
-//var topic = "HTML";
-
 function selectTopic(){
 
   if (randomTopic === 'HTML') {
